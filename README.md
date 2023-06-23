@@ -2,6 +2,7 @@
 A Javascript based Password Manager that used encryption and decryption for secure data storage, the project allowed users to store and manage their credentials securely.
 
 #Password_Manager
+
 Getting Started with Create React App
 
 This project was bootstrapped with Create React App. Available Scripts
